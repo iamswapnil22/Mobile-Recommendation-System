@@ -36,3 +36,4 @@ The recommendations provided are based on the user's input and may not reflect t
 
 # Credits
 The "Mobile phone price" dataset used in the program was sourced from Kaggle.
+
